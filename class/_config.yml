@@ -1,0 +1,22 @@
+testing: true
+
+# Site settings
+page_title: "Page Title"
+course_title: "course title" 
+description: "brief course description"
+instructor: "The teacher"
+email: "instructoremail@somewhere.edu"
+office_hours: "TBA, Boyd 437"
+lecture_schedule: "11:00am - 12:15pm, TuTh, Boyd 328"
+#lecture_schedule2: "11:00am - 12:15pm, W, Boyd 328 (recitation)"
+
+syllabus_url: ""
+
+baseurl: ""
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
