@@ -11,8 +11,15 @@ The goal of this project is to provide reusable templates for producing jekyll w
 The fundamental design idea is to have a sane approach for which files should be modified when the page is first established. So far, we are requiring modification of:
 
 	_config.yml : for the basic page properties
-	_data/lectures.yml : for the lecture metadata
 	_includes/image.html : for the title picture
+
+and for the site-specific data, a file like one of the ones below:
+
+	_data/lectures.yml : for the lecture metadata
+	_data/talks.yml : for the talks at a conference/seminar
+	
+	
+etcetera.
 
 ### to do (and where things are at)
 
